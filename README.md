@@ -5,4 +5,5 @@ This repo is for the test dataset obtained from the OpenI chest x-ray dataset an
 This improved GradCAM can generate a composite heatmap for multiple diseases in a single image and also displays their class label names over their respective highlighted regions.
 
 
-asd**dfhdh**
+If you find this repo useful, cite the following article:
+
